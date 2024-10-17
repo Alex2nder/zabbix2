@@ -25,7 +25,7 @@
 ### Задание 1
 
 
-![Задание 1]( /sys-pattern-homework/img/1.png)`
+![Задание 1]( /sys-pattern-homework/img/1.png)
 
 
 
@@ -33,9 +33,9 @@
 ### Задание 2,3
 
 
-![Задание 23]( /sys-pattern-homework/img/23.png)`
+![Задание 23]( /sys-pattern-homework/img/23.png)
 
 ### Задание 4
 
 
-![Задание 4]( /sys-pattern-homework/img/4.png)`
+![Задание 4]( /sys-pattern-homework/img/4.png)
